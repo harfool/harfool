@@ -1,3 +1,5 @@
+<img src="cover=image.jpg" alt="GitHub Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Harfool Gujjar</h1>
 <h3 align="center">Frontend Developer || React Developer</h3>
 
@@ -38,11 +40,11 @@
 
 ## 🧩 Projects
 
-| Project | Description | Tech Stack | Repo |
-|--------|-------------|------------|------|
-| **LeetLab** | Online Code Execution Platform with Judge0 API, user roles & submissions | React, Tailwind, Node.js, Express, Prisma, PostgreSQL | [GitHub](https://github.com/harfool/leetLab.git) |
-| **AI Code Reviewer** | Full-stack tool using Gemini API to suggest code improvements and detect bugs | MERN, Tailwind, Google Gemini API | _Private (Freelance)_ |
-| **Streaming UI Clone** | Netflix-style frontend clone | HTML, CSS, JavaScript | [GitHub](https://github.com/harfool/streaming-website.git) |
+| Project | Description | Tech Stack 
+|--------|-------------|------------
+| **LeetLab** | Online Code Execution Platform with Judge0 API, user roles & submissions | React, Tailwind, Node.js, Express, Prisma, PostgreSQL | 
+| **AI Code Reviewer** | Full-stack tool using Gemini API to suggest code improvements and detect bugs | MERN, Tailwind, Google Gemini API | 
+| **Streaming UI Clone** | Netflix-style backend clone | node , Node.js, Express , mongoDB , mongoose |
 
 ---
 
@@ -67,12 +69,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harfool&layout=compact&theme=github_dark" width="40%" />
 </p>
 
----
 
-## 🐍 GitHub Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harfoolgujjar/harfoolgujjar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harfoolgujjar/harfoolgujjar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harfoolgujjar/harfoolgujjar/output/github-snake.svg" />
-</picture>
