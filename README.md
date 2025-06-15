@@ -44,7 +44,7 @@
 |--------|-------------|------------
 | **LeetLab** | Online Code Execution Platform with Judge0 API, user roles & submissions | React, Tailwind, Node.js, Express, Prisma, PostgreSQL | 
 | **AI Code Reviewer** | Full-stack tool using Gemini API to suggest code improvements and detect bugs | MERN, Tailwind, Google Gemini API | 
-| **Streaming UI Clone** | Netflix-style backend clone | node , Node.js, Express , mongoDB , mongoose |
+| **Streaming videos backend Clone** | Netflix-style  backend clone | node , Node.js, Express , mongoDB , mongoose |
 
 ---
 
