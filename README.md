@@ -1,16 +1,16 @@
 <img src="cover=image.jpg" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Harfool Gujjar</h1>
-<h3 align="center">Frontend Developer || React Developer</h3>
+<h1 align="center">👋 Hey, I’m Harfool Gurjar</h1>
+<h3 align="center">Frontend Developer ⚛ | React Specialist 🚀 | AI-Enhanced Builder 🤖</h3>
 
 <p align="center">
-🎯 Performance-focused developer creating pixel-perfect, accessible UIs  
-💼 8+ months at MetaCaps IT Solutions building scalable frontend apps  
-🧠 Skilled in React, Zustand, Prisma, PostgreSQL, Tailwind & AI tools  
-📚 Completed BCA (2022–2025) | PW Skills Certified Full Stack Developer  
+💡 Turning ideas into smooth, pixel-perfect, lightning-fast UIs  
+📌 8+ months building scalable frontend apps @ MetaCaps IT Solutions  
+🛠 Expert in React, Zustand, Prisma, PostgreSQL, Tailwind, AI APIs  
+🎓 BCA (2022–25) | Certified Full Stack Developer – PW Skills  
 🏆 Outstanding Tech Talent Award (2024–25) | Excellency Award (2023–24)  
-🌐 Open to Frontend / React Developer roles  
-📫 Reach me at: <a href="https://www.linkedin.com/in/harfool-gurjar/">LinkedIn</a> | <a href="https://github.com/harfool">GitHub</a>
+🌍 Open for Frontend & React Developer opportunities worldwide  
+📬 Connect: <a href="https://www.linkedin.com/in/harfool-gurjar/">LinkedIn</a> | <a href="https://github.com/harfool">GitHub</a>
 </p>
 
 ---
@@ -40,21 +40,21 @@
 
 ## 🧩 Projects
 
-| Project | Description | Tech Stack 
-|--------|-------------|------------
-| **LeetLab** | Online Code Execution Platform with Judge0 API, user roles & submissions | React, Tailwind, Node.js, Express, Prisma, PostgreSQL | 
-| **AI Code Reviewer** | Full-stack tool using Gemini API to suggest code improvements and detect bugs | MERN, Tailwind, Google Gemini API | 
-| **Streaming videos backend Clone** | Netflix-style  backend clone | node , Node.js, Express , mongoDB , mongoose |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **LeetLab** | Online code execution platform with Judge0 API, user roles & submissions | React, Tailwind, Node.js, Express, Prisma, PostgreSQL |
+| **AI Code Reviewer** | Full-stack AI tool with Gemini API for code review, bug detection & smart suggestions | MERN, Tailwind, Google Gemini API |
+| **Streaming Backend Clone** | Netflix-style backend with authentication & content handling | Node.js, Express, MongoDB, Mongoose |
 
 ---
 
 ## 🧠 Core Strengths
 
-- ⚛️ **React Specialist** — Hooks, Context API, Zustand, Redux, React Hook Form, Yup  
-- 🚀 **Performance First** — Code splitting, memoization, 40% faster UI loads  
-- 🤝 **Agile & Team Player** — Sprint planning, Figma-based dev, WCAG compliant UIs  
-- 🧠 **AI Enthusiast** — Integrated Gemini API for live code feedback  
-- 🧰 **Backend Exposure** — REST APIs, Auth (JWT), Prisma, PostgreSQL, MongoDB  
+- ⚛ **React Specialist** — Hooks, Context API, Zustand, Redux, React Hook Form, Yup  
+- 🚀 **Performance Hacker** — Code splitting, memoization, +40% faster UIs  
+- 🤝 **Agile Collaborator** — Sprint planning, Figma-based workflows, WCAG compliance  
+- 🤖 **AI Integrator** — Gemini API for live, intelligent code feedback  
+- 🔗 **Backend Ready** — REST APIs, JWT Auth, Prisma, PostgreSQL, MongoDB  
 
 ---
 
@@ -69,4 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harfool&layout=compact&theme=github_dark" width="40%" />
 </p>
 
+---
 
+💬 *"Write code that makes people say: damn, that’s clean."*
